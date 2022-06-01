@@ -1,1 +1,1 @@
-<?php include_once("./html/build/dist/index.html"); ?>
+<?php include_once("./WebApp/index.html"); ?>
